@@ -1,4 +1,3 @@
-[header](https://github.com/gasfgrv/gasfgrv/blob/master/img/header.png)
 
 ### :bust_in_silhouette: **Sobre mim** 
 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técnico em informática pela ETEC Zona Leste, já atuei com manutenção de computadores, desenvolvimento e análise de sistemas. Atualmente trabalhando no desenvolvimento de microsserviços e APIs usando Java, Spring Boot, Apache Kafka e SQL Server. Além disso, tenho alguns projetos usando outras linguagens como javascript, Kotlin, PHP, Assembly, Python e Shell Script, etc. Entusiasta do open source e usando uma distro nova por semana.
